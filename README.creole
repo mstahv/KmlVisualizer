@@ -1,0 +1,7 @@
+= Vaadin KML example =
+
+This is a simple example how one can load KML file from third party server, 
+de-serialize it with JAXB/Kml library and visualize in with OpenLayers Wrapper.
+
+The source KML this app uses is in TM35FIN coordinates, so the app also suits 
+as an example how to use custom projections with OpenLayers Wrapper.
